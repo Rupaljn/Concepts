@@ -1,0 +1,9 @@
+127.0.0.1 - - [30/May/2022:15:32:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/May/2022:15:32:35 +0530] "GET /Web11/SignUp HTTP/1.1" 200 375
+127.0.0.1 - - [30/May/2022:16:33:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/May/2022:16:33:56 +0530] "GET /Web11/SignUp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [30/May/2022:16:34:38 +0530] "GET /Web11/SignUpController?fullName=Uday+jain&emailId=uday123@gmail.com&contactNumber=4415415646&password=3456778 HTTP/1.1" 200 119
+127.0.0.1 - - [30/May/2022:16:35:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/May/2022:16:35:59 +0530] "GET /Web11/SignUp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [30/May/2022:16:36:06 +0530] "GET /Web11/SignUp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [30/May/2022:16:36:30 +0530] "GET /Web11/SignUpController?fullName=fgbfj&emailId=djfhjs235@jnlfg&contactNumber=444415412&password=677890 HTTP/1.1" 200 438

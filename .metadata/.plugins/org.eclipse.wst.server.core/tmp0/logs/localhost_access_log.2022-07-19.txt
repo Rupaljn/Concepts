@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/Jul/2022:00:43:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:00:43:09 +0530] "GET /SignUpJSP1/SignUpView.jsp HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:00:44:31 +0530] "GET /SignUpJSP1/SignUpView.jsp HTTP/1.1" 200 730
+127.0.0.1 - - [19/Jul/2022:02:44:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:44:29 +0530] "GET /SignUpJSP1/SignUpView.jsp HTTP/1.1" 200 730
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:45:42 +0530] "GET /SignUpJSP1/SignUpController?fullName=Rupal+jain&emailId=rupal@1234&contactNumber=7896512698&password=India HTTP/1.1" 200 398
+127.0.0.1 - - [19/Jul/2022:02:48:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:48:54 +0530] "GET /SignUpJSP1/SignUpView.jsp HTTP/1.1" 200 730
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:49:28 +0530] "GET /SignUpJSP1/SignUpController?fullName=Rupal+jain&emailId=rupal@11245&contactNumber=78563296&password=Ram HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:51:48 +0530] "GET /SignUpJSP1/SignUpController?fullName=Rupal+jain&emailId=rupal@1234&contactNumber=7896512698&password=India HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:02:59:04 +0530] "GET /SignUpJSP1/SignUpController?fullName=Rupal+jain&emailId=rupal@1234&contactNumber=7896512698&password=India HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:03:05:24 +0530] "GET /SignUpJSP1/SignUpController?fullName=Rupal+jain&emailId=rupal@1234&contactNumber=7896512698&password=LaxmiJi HTTP/1.1" 200 394
+127.0.0.1 - - [19/Jul/2022:17:33:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:17:33:45 +0530] "GET /SignUpJSP1/SignUpView.jsp HTTP/1.1" 200 730
+0:0:0:0:0:0:0:1 - - [19/Jul/2022:17:34:20 +0530] "GET /SignUpJSP1/SignUpController?fullName=Tofi&emailId=tofi@67890&contactNumber=987653212&password=Werdfgbv HTTP/1.1" 200 394

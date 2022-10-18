@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="12">
+    <list key="modules" value0="We006::org.eclipse.jst.jee.server:We006::jst.web::3.1" value1="Web007::org.eclipse.jst.jee.server:Web007::jst.web::3.1" value10="Web11::org.eclipse.jst.jee.server:Web11::jst.web::3.1" value11="SignUpJSP1::org.eclipse.jst.jee.server:SignUpJSP1::jst.web::3.1" value2="Web06::org.eclipse.jst.jee.server:Web06::jst.web::3.1" value3="Web07::org.eclipse.jst.jee.server:Web07::jst.web::3.1" value4="Web09::org.eclipse.jst.jee.server:Web09::jst.web::3.1" value5="Web10::org.eclipse.jst.jee.server:Web10::jst.web::3.1" value6="SignUp01::org.eclipse.jst.jee.server:SignUp01::jst.web::3.1" value7="Sign02::org.eclipse.jst.jee.server:Sign02::jst.web::3.1" value8="SinUp03::org.eclipse.jst.jee.server:SinUp03::jst.web::3.1" value9="SignUpJSP::org.eclipse.jst.jee.server:SignUpJSP::jst.web::3.1"/>
+  </server>
+</servers>
